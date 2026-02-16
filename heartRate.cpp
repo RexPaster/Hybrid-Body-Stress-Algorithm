@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath> // Required for most common mathematical functions
 #include <iomanip> // Optional: for better formatting of output
-
+//
 int main() {
     double hrBaseline = 2.3; //Baseline Heartrate
     double hrC = 0.25; //Current Heartrate
